@@ -1,6 +1,4 @@
 import requests
-import csv
-import random
 
 API_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMGE1NjU0NmYwMzIzNGE3NDNiMjJkNGQzYzVkYjU5OSIsInN1YiI6IjYyNzNhNjBkNzg1NzBlMDA2NjFmZDAzYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.I2GTCBYREFUcgfO9wTwPD99e98KSqspSgDcK4p9Kp0o"
 
